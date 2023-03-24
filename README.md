@@ -27,6 +27,8 @@ Rdney Brooks: [What Will Transformers Transform?](https://rodneybrooks.com/what-
 
 [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html)
 
+[Fine-Tuning Large Language Models with Hugging Face and DeepSpeed](https://www.databricks.com/blog/2023/03/20/fine-tuning-large-language-models-hugging-face-and-deepspeed.html?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=4327786)
+
 
 
 [GPT Understands, Too](https://arxiv.org/pdf/2103.10385.pdf)
