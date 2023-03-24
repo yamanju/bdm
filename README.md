@@ -30,7 +30,11 @@ Rdney Brooks: [What Will Transformers Transform?](https://rodneybrooks.com/what-
 
 
 [GPT Understands, Too](https://arxiv.org/pdf/2103.10385.pdf)
+
 [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
+
 [Improving Transformer Optimization Through Better Initialization](https://www.cs.toronto.edu/~mvolkovs/ICML2020_tfixup.pdf)
+
 [Catformer: Designing Stable Transformers via Sensitivity Analysis](http://proceedings.mlr.press/v139/davis21a/davis21a.pdf)
+
 [The Depth-to-Width Interplay in Self-Attention](https://arxiv.org/pdf/2006.12467.pdf)
