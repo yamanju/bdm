@@ -1,0 +1,2 @@
+# bdm
+Büyük Dil Modelleri 
