@@ -42,3 +42,6 @@ Rdney Brooks: [What Will Transformers Transform?](https://rodneybrooks.com/what-
 [Catformer: Designing Stable Transformers via Sensitivity Analysis](http://proceedings.mlr.press/v139/davis21a/davis21a.pdf)
 
 [The Depth-to-Width Interplay in Self-Attention](https://arxiv.org/pdf/2006.12467.pdf)
+
+<p><strong><span style="color:orange;">Resource Link's</span></strong> bunu turuncu renkli ve bold yapar mısın</p>
+https://github.com/Torantulino/Auto-GPT
