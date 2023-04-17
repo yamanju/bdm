@@ -29,7 +29,7 @@ Rdney Brooks: [What Will Transformers Transform?](https://rodneybrooks.com/what-
 
 [Fine-Tuning Large Language Models with Hugging Face and DeepSpeed](https://www.databricks.com/blog/2023/03/20/fine-tuning-large-language-models-hugging-face-and-deepspeed.html?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=4327786)
 
-[Language Models: GPT and GPT-2](https://cameronrwolfe.substack.com/p/language-models-gpt-and-gpt-2), LLaMA: [LLMs for Everyone!](https://cameronrwolfe.substack.com/p/llama-llms-for-everyone)
+[Language Models: GPT and GPT-2](https://cameronrwolfe.substack.com/p/language-models-gpt-and-gpt-2), [LLMs for Everyone!](https://cameronrwolfe.substack.com/p/llama-llms-for-everyone)
 
 
 [GPT Understands, Too](https://arxiv.org/pdf/2103.10385.pdf)
