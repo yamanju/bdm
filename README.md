@@ -41,3 +41,5 @@ Rdney Brooks: [What Will Transformers Transform?](https://rodneybrooks.com/what-
 [Catformer: Designing Stable Transformers via Sensitivity Analysis](http://proceedings.mlr.press/v139/davis21a/davis21a.pdf)
 
 [The Depth-to-Width Interplay in Self-Attention](https://arxiv.org/pdf/2006.12467.pdf)
+
+[Understanding LLMOps: Large Language Model Operations](https://wandb.ai/iamleonie/Articles/reports/Understanding-LLMOps-Large-Language-Model-Operations--Vmlldzo0MDgyMDc2)
