@@ -44,4 +44,5 @@ Rdney Brooks: [What Will Transformers Transform?](https://rodneybrooks.com/what-
 
 [Understanding LLMOps: Large Language Model Operations](https://wandb.ai/iamleonie/Articles/reports/Understanding-LLMOps-Large-Language-Model-Operations--Vmlldzo0MDgyMDc2)
 
-AI-assisted diagnosis and clinical decision-making (https://glass.health/)
+<a href="https://glass.health/">AI-assisted diagnosis and clinical decision-making</a>
+
