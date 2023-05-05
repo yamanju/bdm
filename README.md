@@ -31,8 +31,6 @@ Rdney Brooks: [What Will Transformers Transform?](https://rodneybrooks.com/what-
 
 [Language Models: GPT and GPT-2](https://cameronrwolfe.substack.com/p/language-models-gpt-and-gpt-2)
 
-
-
 [GPT Understands, Too](https://arxiv.org/pdf/2103.10385.pdf)
 
 [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
@@ -42,3 +40,5 @@ Rdney Brooks: [What Will Transformers Transform?](https://rodneybrooks.com/what-
 [Catformer: Designing Stable Transformers via Sensitivity Analysis](http://proceedings.mlr.press/v139/davis21a/davis21a.pdf)
 
 [The Depth-to-Width Interplay in Self-Attention](https://arxiv.org/pdf/2006.12467.pdf)
+
+<a href="https://huggingface.co/bigcode">15B Open Source LLM for writing Code</a>
