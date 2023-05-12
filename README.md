@@ -42,3 +42,5 @@ Rdney Brooks: [What Will Transformers Transform?](https://rodneybrooks.com/what-
 [The Depth-to-Width Interplay in Self-Attention](https://arxiv.org/pdf/2006.12467.pdf)
 
 <a href="https://huggingface.co/bigcode">15B Open Source LLM for writing Code</a>
+
+<a href="https://huggingface.co/bigcode](https://docs.cohere.com/docs/llmu)">Welcome to LLM University!</a>
