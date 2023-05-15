@@ -43,4 +43,7 @@ Rdney Brooks: [What Will Transformers Transform?](https://rodneybrooks.com/what-
 
 <a href="https://huggingface.co/bigcode">15B Open Source LLM for writing Code</a>
 
-<a href="https://huggingface.co/bigcode](https://docs.cohere.com/docs/llmu)">Welcome to LLM University!</a>
+<a href="https://huggingface.co/bigcode](https://docs.cohere.com/docs/llmu">Welcome to LLM University!</a>
+
+<a href="https://github.com/h2oai/h2o-llmstudio">The best resource for fine-tuning LLMs! 🙏</a>
+
